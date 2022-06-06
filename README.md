@@ -1,7 +1,7 @@
 # react-deploy-demo
 A simple demo for how github page could be used to deploy react project :)
 
-I used reference of [G2G](https://www.geeksforgeeks.org/how-to-deploy-your-react-websites-on-github/#:~:text=Follow%20the%20command%20below%20and,your%20code%20on%20GitHub%20pages.&text=That's%20it.,Github%20repository%20and%20scroll%20down.)
+I used reference of [G4G](https://www.geeksforgeeks.org/how-to-deploy-your-react-websites-on-github/#:~:text=Follow%20the%20command%20below%20and,your%20code%20on%20GitHub%20pages.&text=That's%20it.,Github%20repository%20and%20scroll%20down.)
 
 Here are the steps:
 
